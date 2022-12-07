@@ -39,7 +39,7 @@ export default function Table({
                 "cursor-pointer",
                 "border border-r-0 hover:bg-slate-200 cursor-pointer",
                 {
-                  "bg-slate-50 hover:bg-slate-100": i % 2 !== 0 && !active,
+                  "bg-slate-50 hover:bg-slate-200": i % 2 !== 0 && !active,
                   "border-t-0": i === 0,
                   "bg-yellow-100 hover:bg-yellow-100": active,
                 }
