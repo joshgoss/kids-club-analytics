@@ -1,6 +1,6 @@
 # Kids Club Analytics
 
-View a list of games kids have played and a breakdown of what sports they play.
+View a list of games kids have played and a breakdown of what games they play.
 
 ## Tech Stack
 

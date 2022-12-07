@@ -87,7 +87,7 @@ export default function AnalysisPage() {
                 }, [])}
                 headers={["Sport", "Games Played"]}
                 height="300px"
-                title={`Sports Breakdown for ${selectedMember}`}
+                title={`Games Breakdown for ${selectedMember}`}
                 width="100%"
               />
             </div>
